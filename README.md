@@ -8,6 +8,10 @@ Time to enhance git knowledge
 
 ## Purpose
 
+Main Purpose is to get overal understanding.
+
 ## Deployment
 
 ## How to Contribute
+
+Latest update.
