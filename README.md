@@ -15,3 +15,4 @@ Main Purpose is to get overal understanding.
 ## How to Contribute
 
 Latest update.
+Copyright
